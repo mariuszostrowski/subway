@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="40px" height="40px" viewBox="0 0 40 40" overflow="visible" enable-background="new 0 0 40 40"
+	 xml:space="preserve">
+<defs>
+</defs>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M20,8C13.373,8,8,13.373,8,20s5.373,12,12,12s12-5.373,12-12
+	S26.627,8,20,8z M25.686,22.835c0.394,0.394,0.394,1.032,0,1.425l-1.425,1.425c-0.394,0.394-1.032,0.394-1.426,0l-2.851-2.851
+	l-2.851,2.851c-0.394,0.394-1.032,0.394-1.426,0l-1.425-1.425c-0.394-0.394-0.394-1.032,0-1.425l2.851-2.851l-2.851-2.851
+	c-0.394-0.394-0.394-1.032,0-1.426l1.425-1.425c0.394-0.394,1.032-0.394,1.426,0l2.851,2.851l2.851-2.851
+	c0.394-0.394,1.032-0.394,1.426,0l1.425,1.425c0.394,0.394,0.394,1.032,0,1.426l-2.851,2.851L25.686,22.835z"/>
+</svg>

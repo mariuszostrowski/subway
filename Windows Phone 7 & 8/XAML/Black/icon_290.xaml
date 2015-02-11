@@ -1,0 +1,1 @@
+<Canvas Width="48" Height="48" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"><Path Fill="#FF000000"><Path.Data><PathGeometry Figures="M14,24L34,24C34,24,33,19,29,19L29,15 32,12 16,12 19,15 19,19C15,19,14,24,14,24z M24,38L26,25 22,25 24,38z" /></Path.Data></Path></Canvas>

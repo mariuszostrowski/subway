@@ -1,0 +1,1 @@
+<Canvas Width="40" Height="40" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"><Path Fill="#FFFFFFFF"><Path.Data><EllipseGeometry RadiusX="12" RadiusY="12" Center="20,20" /></Path.Data></Path></Canvas>

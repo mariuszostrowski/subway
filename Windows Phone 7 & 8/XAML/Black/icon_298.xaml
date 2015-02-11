@@ -1,0 +1,1 @@
+<Canvas Width="48" Height="48" ClipToBounds="True" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"><Path Fill="#FF000000"><Path.Data><PathGeometry Figures="M25,14L25,34C28,31.5,33,31.5,36,34L36,14C33,11.5,28,11.5,25,14z M12,14L12,34C15,31.5,20,31.5,23,34L23,14C20,11.5,15,11.5,12,14z" /></Path.Data></Path></Canvas>
