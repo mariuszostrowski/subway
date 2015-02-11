@@ -10,12 +10,12 @@ Subway is a set of 306 pixel perfect crafted icons optimized for:
 
 delivered in PNG, SVG, XALM, PSD, CSH, SKETCH, PDF, AI and EPS format.
 
-![](http://subway.pixle.pl/images/subway00.jpg)
+![](https://raw.githubusercontent.com/pixle/subway/master/Preview/subway00.jpg)
 
-![](http://subway.pixle.pl/images/subway01.png)
+![](https://raw.githubusercontent.com/pixle/subway/master/Preview/subway01.png)
 
-![](http://subway.pixle.pl/images/subway02.png)
+![](https://raw.githubusercontent.com/pixle/subway/master/Preview/subway02.jpg)
 
-![](http://subway.pixle.pl/images/subway03.jpg)
+![](https://raw.githubusercontent.com/pixle/subway/master/Preview/subway03.jpg)
 
-![](http://subway.pixle.pl/images/subway04.jpg)
+![](https://raw.githubusercontent.com/pixle/subway/master/Preview/subway04.jpg)
