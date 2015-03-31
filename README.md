@@ -11,9 +11,9 @@ Subway is a set of 306 pixel perfect crafted icons optimized for:
 
 delivered in PNG, SVG, XALM, PSD, CSH, SKETCH, PDF, AI and EPS format.
 
-![Apple Watch Menu Icons](https://raw.githubusercontent.com/pixle/subway/master/Preview/subway05.png)
+![](https://raw.githubusercontent.com/pixle/subway/master/Preview/subway05.jpg "Apple Watch Menu Icons")
 
-![Apple Watch Menu Preview](https://raw.githubusercontent.com/pixle/subway/master/Preview/subway06.png)
+![](https://raw.githubusercontent.com/pixle/subway/master/Preview/subway06.png "Apple Watch Menu Preview")
 
 ![](https://raw.githubusercontent.com/pixle/subway/master/Preview/subway00.jpg)
 
