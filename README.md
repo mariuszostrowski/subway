@@ -1,4 +1,4 @@
-###Subway Icon Set
+#Subway Icon Set
 
 Subway is a set of 306 pixel perfect crafted icons optimized for:
 
@@ -10,6 +10,11 @@ Subway is a set of 306 pixel perfect crafted icons optimized for:
 - BlackBerry 10 (96px, 81px, 71px and 61px)
 
 delivered in PNG, SVG, XALM, PSD, CSH, SKETCH, PDF, AI and EPS format.
+
+### Author
+Mariusz Ostrowski  
+E-Mail: mariusz.ostrowski@pixle.pl  
+Twitter: [@faktory](https://twitter.com/faktory)
 
 ![](https://raw.githubusercontent.com/pixle/subway/master/Preview/subway05.jpg "Apple Watch Menu Icons")
 
