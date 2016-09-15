@@ -13,7 +13,7 @@ delivered in PNG, SVG, XALM, PSD, CSH, SKETCH, PDF, AI and EPS format.
 
 ### Author
 Mariusz Ostrowski  
-E-Mail: mariusz.ostrowski@pixle.pl  
+E-Mail: mariusz.ostrowski@gmail.com  
 Twitter: [@faktory](https://twitter.com/faktory)
 
 ![](https://raw.githubusercontent.com/pixle/subway/master/Preview/subway05.jpg "Apple Watch Menu Icons")
