@@ -1,4 +1,4 @@
-#Subway Icon Set
+###Subway Icon Set
 
 Subway is a set of 306 pixel perfect crafted icons optimized for:
 
@@ -10,6 +10,12 @@ Subway is a set of 306 pixel perfect crafted icons optimized for:
 - BlackBerry 10 (96px, 81px, 71px and 61px)
 
 delivered in PNG, SVG, XALM, PSD, CSH, SKETCH, PDF, AI and EPS format.
+
+**If you like this set maybe you want to buy a coffee for me :)**
+
+**BTC:** 3KogvnbjbRvKvEpcbPKuETqvGfAdRnM84P
+**ETH:** 0x6169698dbc21601b7749228c96e51f607c00fc66
+**LTC:** LKvpCScbJ3UQ3ZRFMr1KQ2PUW1T9pSvpV7
 
 ### Author
 Mariusz Ostrowski  
