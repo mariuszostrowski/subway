@@ -13,8 +13,8 @@ delivered in PNG, SVG, XALM, PSD, CSH, SKETCH, PDF, AI and EPS format.
 
 **If you like this set maybe you want to buy a binary coffee for me :)**
 
-- **BTC:** 3KogvnbjbRvKvEpcbPKuETqvGfAdRnM84P
-- **ETH:** 0x6169698dbc21601b7749228c96e51f607c00fc66
+- **BTC:** bc1qk7jyu8u4pj6ru0cuju5q8h6umxkxey6mh34cmrwqld7wlcjph74se7jpdu
+- **ETH:** 0x79c6eB7da3F25bBd9D44e3F46f654415288f13aA
 - **LTC:** LKvpCScbJ3UQ3ZRFMr1KQ2PUW1T9pSvpV7
 
 ### Author
